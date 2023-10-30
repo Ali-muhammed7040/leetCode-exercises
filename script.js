@@ -42,6 +42,6 @@ for (let i = 0; i < roman.length; i++) {
 }
 return result
 }
-console.log(romanToInt("III"),'final')
-console.log(romanToInt("LVIII"),'final')
-console.log(romanToInt("MCMXCIV"),'final')
+// console.log(romanToInt("III"))
+// console.log(romanToInt("LVIII"))
+// console.log(romanToInt("MCMXCIV"))
